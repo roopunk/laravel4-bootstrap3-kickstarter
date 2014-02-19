@@ -1,7 +1,7 @@
 ## Laravel 4 with Bootstrap 3 Kick Starter
 
 
-This project is intended to kickstart your Laravel 4 project with a plan of using Bootstrap 3 CSS framework. This is built for personal use but you are free to modify incase you decided you  to give this project a try to start your project. More updates will be added to this project in the future.
+This project is intended to kickstart your Laravel 4 project using Bootstrap 3 CSS framework. This was created for personal use but you are free to download and mess with it. More updates will be added to this project in the future(maybe).
 
 ## About the Author
 
