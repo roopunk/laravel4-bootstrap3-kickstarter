@@ -10,7 +10,7 @@ Written by Albert Maranian Jr (albertmaranian@gmail.com) - You are free to email
 ## How to install
 
 ### Get the code 
-	git clone git@github.com:devbeans/laravel4-bootstrap3-kickstarter.git
+	git clone https://github.com/devbeans/laravel4-bootstrap3-kickstarter.git
 ### Run composer to install vendors/dependencies
     composer install (Assumes you have composer globally installed)	
 ### Run migration to add groups and users tables
